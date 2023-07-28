@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 - 💡 I have a strong background in leadership and enjoy taking initiative. 
 
 
-
-
 ## Projects
 
 #### Automated Personality Prediction using Machine Learning
