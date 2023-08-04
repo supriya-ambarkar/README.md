@@ -1,7 +1,7 @@
 
 # Hello, I'm Ambarkar Supriya!👋
 
-Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering graduate with a strong interest in SQL,Python, Microsoft Excel and Data Analysis.
+Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering graduate with a strong interest in SQL,Python, Microsoft Excel, Power Bi, and Data Analysis.
 ## 🚀 About Me
 
 - 🔭 I recently completed my graduation in Computer Science and Engineering with an aggregate of 82.2%.
