@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 ## 🚀 About Me
 
 - 🔭 I recently completed my graduation in Computer Science and Engineering with an aggregate of 82.2%.
-- 🚀 My main expertise lies in Python, SQL, C, Core Java and Snowflakes (Cloud technology).
+- 🚀 My main expertise lies in Python, SQL, PowerBi, C, Core Java, and Snowflake(Cloud technology).
 - 🌟 I'm a fast learner and always eager to explore new technologies.
 - 💡 I have a strong background in leadership and enjoy taking initiative. 
 
