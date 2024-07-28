@@ -1,12 +1,12 @@
 
 # Hello, I'm Ambarkar Supriya!👋
 
-Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering graduate with a strong interest in SQL,Python, Microsoft Excel, Power Bi, and Data Analysis.
+Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering graduate with a strong interest in SQL, Python, Java, Git, HTML, CSS, JavaScript, React. 
 
 ## 🚀 About Me
 
 - 🔭 I recently completed my graduation in Computer Science and Engineering with an aggregate of 82.2%.
-- 🚀 My main expertise lies in Python, SQL, PowerBi, C, Core Java, and Snowflake(Cloud technology).
+- 🚀 My main expertise lies in Python, SQL, Java, GIT, HTML, CSS. 
 - 🌟 I'm a fast learner and always eager to explore new technologies.
 - 💡 I have a strong background in leadership and enjoy taking initiative. 
 
@@ -28,9 +28,11 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 
 ## Skills
 
-Programming: Python, C, Core Java
+Programming: Python, C, Java
 
 Databases: SQL
+
+Version Control : Git, GitHub
 
 ## Soft Skills
 
